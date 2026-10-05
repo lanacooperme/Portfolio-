@@ -2,17 +2,17 @@
 
 Hello, I'm **Lana Cooper**, a technical writer specialising in AI adoption, internal AI workflows, and AI-powered products.
 
-I work across **information architecture, internal knowledge bases, workflow documentation, human-in-the-loop review, output-quality guidance, and documentation governance.**
+I work across information architecture, internal knowledge bases, workflow documentation, human-in-the-loop review, output-quality guidance, and documentation governance.
 
 ---
 
 ## Selected Cases
 
-| Project | Focus       | Deliverables |
-| ------- | ----------- | ------------ |
-| Case 1  | To be added | To be added  |
-| Case 2  | To be added | To be added  |
-| Case 3  | To be added | To be added  |
+| Project | Focus |
+|---|---|
+| [Internal AI Adoption for a Cross-Functional Team](link) | Role-based onboarding, task ownership, and quality checks for client-facing work.|
+| [AI Customer-Support Response Quality Framework](link) | A weighted 5 rubrics, shared error taxonomy, and escalation rules for daily use. |
+| [User Documentation for an AI-Generated Reporting Feature](link) | Feature limitations, review steps, onboarding, and troubleshooting guidance.|
 
 ---
 
@@ -29,9 +29,10 @@ I work across **information architecture, internal knowledge bases, workflow doc
 
 ---
 
+
 ## About
 
-For the past five years, I have worked across **data and product analysis, LLM evaluation, AI training, and quality review.**
+For the past five years, I have worked across data and product analysis, LLM evaluation, AI training, and quality review.
 
 I turn AI workflows and product features into clear, practical materials, including:
 
@@ -42,14 +43,12 @@ I turn AI workflows and product features into clear, practical materials, includ
 * Troubleshooting guidance
 * Workflow diagrams
 
-My goal is to help people use technical tools, including artificial intelligence, in ways that are **understandable, useful, and responsible.**
+My goal is to help people use technical tools, including artificial intelligence, in ways that are understandable, useful, and responsible.
 
 ---
 
 ## Contact
-* **LinkedIn:** [Connect with me]((https://www.linkedin.com/in/lanacooperme/)
-* **Email:** [YOUR_EMAIL](mailto:lanacooperme@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/lanacooperme/)
+* lanacooperme@gmail.com
 
----
 
-*Thank you for visiting my portfolio.*
