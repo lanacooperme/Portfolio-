@@ -1,4 +1,4 @@
-# User Documentation for an AI-Generated Reporting Feature
+# User documentation for an AI-generated reporting feature.
 
 **Helping users understand, use, and verify AI-generated reports.**
 
