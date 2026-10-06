@@ -10,7 +10,7 @@ I work across information architecture, internal knowledge bases, workflow docum
 
 | Project | Focus |
 |---|---|
-| [Internal AI Adoption for a Cross-Functional Team](link) | Role-based onboarding, task ownership, and quality checks for client-facing work.|
+| [Internal AI Adoption for a Cross-Functional Team](https://github.com/lanacooperme/Portfolio-/blob/main/01.md) | Role-based onboarding, task ownership, and quality checks for client-facing work.|
 | [AI Customer-Support Response Quality Framework](link) | A weighted 5 rubrics, shared error taxonomy, and escalation rules for daily use. |
 | [User Documentation for an AI-Generated Reporting Feature](link) | Feature limitations, review steps, onboarding, and troubleshooting guidance.|
 
